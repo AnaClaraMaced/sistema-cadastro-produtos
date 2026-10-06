@@ -1,6 +1,6 @@
 # sistema-cadastro-produtos
 
-**Turma:** sala 12A - manhã
+**Turma:** sala 12A - manhã - grupo 1
 
 ## Integrantes
 - Ana Clara Rocha Macedo
